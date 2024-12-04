@@ -1,5 +1,5 @@
 
-# Distributed Client-Server System
+# Network File System
 
 This project implements a distributed file management system that ensures high availability, fault tolerance, and efficient data management across multiple servers. The system uses hashmaps for fast data searching and incorporates backup mechanisms to safeguard data in case of server failure. It also allows servers to synchronize and recover data when they come back online after being offline.
 
